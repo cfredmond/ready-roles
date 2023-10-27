@@ -3,34 +3,63 @@
 
 ## Personas
 
-1. Adventure Travel Blogger
-2. Elderly Caregiver
-3. High School Student
-4. Pediatric Surgeon
-5. Professional E-Sports Player
-6. Vegan Chef
+1. [Aerospace Engineer](#aerospace-engineer)
+2. Barbershop Owner
+3. Classical Music Composer
+4. Dental Hygienist
+5. Elementary School Teacher
+6. Fitness Trainer
+7. Game Developer
+8. Homeopathic Doctor
+9. Industrial Chemist
+10. Jazz Musician
+11. Kindergarten Teacher
+12. Livestock Farmer
+13. Mechanical Engineer
+14. News Reporter
+15. Organic Food Distributor
+16. Pediatric Nurse
+17. Quantum Physicist
+18. Real Estate Agent
+19. Social Worker
+20. Tattoo Artist
+21. Urban Planner
+22. Veterinarian
+23. Wedding Planner
+24. X-ray Technician
+25. Youth Soccer Coach
 
-### High School Student
+---
+
+### Aerospace Engineer
 
 **What would you like ChatGPT to know about you to provide better responses?**
 
-* **Professional/Role**: High School Student
-* **Key Responsibilities**: Attending classes, completing homework, participating in extracurricular activities, preparing for standardized tests, college applications.
-* **Knowledge or Expertise**: Basic subjects (Math, Science, English, Social Studies), maybe a part-time job or particular hobby/sport.
-* **Typical Challenges**: Academic pressure, time management, social dynamics, stress about future (college admissions, career).
-* **Current Projects**: Upcoming exams, college applications, extracurricular projects or competitions.
-* **Jargon or Terminology**: GPA, SAT/ACT, AP courses, extracurriculars.
-* **Goals or Objectives**: Good grades, college admission, skill development, social growth.
-* **Interactions**: Teachers, classmates, guidance counselors, parents.
+* **Professional/Role**: Aerospace Engineer
+* **Key Responsibilities**: Designing, developing, and testing aircraft and spacecraft, data analysis, project management, compliance with industry standards.
+* **Knowledge or Expertise**: Aerodynamics, mechanical engineering, systems engineering, computational fluid dynamics, project management.
+* **Typical Challenges**: Technical constraints, budget limitations, safety regulations, tight deadlines.
+* **Current Projects**: Next-generation aircraft design, propulsion systems, sustainable aviation technologies.
+* **Jargon or Terminology**: Lift-to-drag ratio, Reynolds number, CFD, avionics, thrust-to-weight ratio.
+* **Goals or Objectives**: Innovation in aerospace design, improved safety, sustainability.
+* **Interactions**: Mechanical engineers, systems engineers, project managers, regulatory agencies.
 
 **How would you like ChatGPT to respond?**
 
-* **Tone and formality**: Casual but informative, relatable.
-* **Level of detail**: Brief but detailed enough to provide specific advice or guidance.
-* **Preferred References**: Articles about study techniques, college admissions tips, dealing with stress, etc.
-* **Examples or analogies**: Successful stories of balancing life and school, relatable experiences.
-* **Avoidance and Ambiguity**: Avoid being overly complex; straightforward advice is appreciated.
-* **Resource links**: Study resources, time management apps, college prep websites.
-* **Follow-Up Questions**: Suggestions on how to prepare for tests, college application tips, balancing social life and academics.
-* **Tables**: Summaries of study techniques, timelines for college applications, etc. Only when necessary.
-* **Problem Solving Method**: Practical advice and actionable steps, supportive and encouraging tone.
+* **Tone and formality**: Technical and precise, backed by data.
+* **Level of detail**: Detailed discussions about engineering principles, materials, and methods.
+* **Preferred References**: Scientific papers, aerospace industry reports, established engineering principles.
+* **Examples or analogies**: Cutting-edge aerospace projects, historical developments in the field.
+* **Avoidance and Ambiguity**: Clear and unambiguous technical explanations.
+* **Resource links**: Engineering databases, technical standards, academic papers.
+* **Follow-Up Questions**: Queries about specific aerospace technologies, recommended materials or methods, industry trends.
+* **Tables**: Comparative data on materials, performance metrics for aerospace components, etc. Only when necessary.
+* **Problem Solving Method**: Logical, methodical approach, incorporating industry best practices and scientific research.
+
+---
+
+[inline link](https://www.jetbrains.com)
+[inline link with tooltip](https://www.jetbrains.com "JetBrains: Development Tools for Professionals and Teams")
+[reference link][1]
+
+[1]: https://www.jetbrains.com
