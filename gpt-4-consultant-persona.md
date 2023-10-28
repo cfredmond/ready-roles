@@ -1,3 +1,4 @@
+[REWRITE TO BE FOR CHATGPT-4 SPECIFICALLY]
 ### GPT-4 Consultant Persona
 
 #### What would you like ChatGPT to know about you to provide better responses?
