@@ -4,9 +4,11 @@
   <img src="ready-roles-logo.png" alt="ready-roles-logo" width="300"/>
 </p>
 
-25 Plug-and-Play Personas for GPT-4 
+25 ready-to-use, plug-and-play personas designed specifically for ChatGPT-4 to enhance and customize your conversational experiences.
 
-[EXPAND]
+## Why use personas?
+
+Personas for ChatGPT-4 enhance user interaction by providing consistent, domain-specific conversations tailored to specific user needs. By defining a persona's tone, style, and domain knowledge, developers can ensure more engaging, ethical, and specialized AI conversations. Implementing personas thus offers a tailored conversational experience, improving user satisfaction and the model's effectiveness in specialized tasks.
 
 ## Instructions
 
